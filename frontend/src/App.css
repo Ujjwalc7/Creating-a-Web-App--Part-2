@@ -1,0 +1,10 @@
+*{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+#root {
+  max-width: 1536px;
+  margin: 0 auto;
+  text-align: center;
+}
